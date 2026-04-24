@@ -22,6 +22,10 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - [ ] Deploy to production (automated pipeline preferred)
 - [ ] Run post-deploy verifications
 - [ ] Announce release to stakeholders and support
+- [ ] UX/UI design review sign-off obtained for user-facing changes
+- [ ] Documentation readiness confirmed (user guides, release notes, API docs updated)
+- [ ] Security/Compliance sign-off obtained prior to production deployment
+- [ ] Support handoff completed (Customer Support briefed on changes and potential impact)
 
 ## Rollback & Incident Playbook
 - If a deployment fails or causes a critical issue:
