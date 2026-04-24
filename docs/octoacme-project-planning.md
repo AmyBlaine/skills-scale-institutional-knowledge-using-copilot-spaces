@@ -41,3 +41,7 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+- [ ] UX/UI design review scheduled or completed for user-facing features
+- [ ] Technical Writer engaged for documentation planning
+- [ ] Security/Compliance Lead consulted on any security or compliance requirements
+- [ ] DevOps/Release Engineer aligned on deployment and infrastructure needs

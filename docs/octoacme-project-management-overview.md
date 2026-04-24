@@ -19,6 +19,12 @@ Applies to all cross-functional projects that deliver product features, services
 - Developers: implement features, collaborate on design and testability.
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
+- UX/UI Designer: designs user interfaces and experiences; ensures usability and design consistency.
+- Technical Writer: creates and maintains documentation for users and internal teams.
+- Customer Support/Advocacy: represents the customer voice; supports release readiness and issue escalation.
+- Security/Compliance Lead: ensures security and compliance requirements are met throughout delivery.
+- DevOps/Release Engineer: manages deployment pipelines, infrastructure, and release processes.
+- Data Analyst/Scientist: provides data insights, tracks success metrics, and designs experiments.
 
 ## Key Artifacts
 - Project Charter / One-pager
